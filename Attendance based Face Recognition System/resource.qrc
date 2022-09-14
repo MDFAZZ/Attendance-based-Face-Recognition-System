@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+    <file>C:/Users/FAZZ/Pictures/augmented_reality_1.png</file>
+  </qresource>
+  <qresource>
+    <file>C:/Users/FAZZ/Downloads/augmented_reality_1 (1).png</file>
+  </qresource>
+</RCC>
